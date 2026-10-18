@@ -7,3 +7,5 @@ DOMAIN,dig.bdurl.net
 DOMAIN,clientlog.music.163.com
 DOMAIN,netapm.music.163.com
 DOMAIN,clientlog3.music.163.com
+#
+DOMAIN,gs.statcounter.com
